@@ -1,7 +1,7 @@
 # A Decentralized Air Travel Network
 STSCI 4520 Statistical Computing Capstone Project
 
-"Your final project will analyze the existing air travel network using real flight data, and attempt to decentralize the network in order to provide more non-stop travel options to people who live far from hub airports.
+"Your final project will analyze the existing air travel network using real flight data, and attempt to decentralize the network in order to provide more non-stop travel options to people who live far from hub airports."
 
 The R package contains the following components:
 1. A data frame called airport_data with at least three columns:
