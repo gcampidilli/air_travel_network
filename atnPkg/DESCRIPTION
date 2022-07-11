@@ -1,0 +1,22 @@
+Package: atnPkg
+Type: Package
+Title: Air Travel Calculations for R 
+Version: 0.1.0
+Authors@R: c(person("Grace", "Campidilli", email = "gec83@cornell.edu", role = c("aut", "cre")),
+        person("Benjamin", "Yeh", email = "by253@cornell.edu", role = c("aut")))
+Description: Functions to calculate distances to airports and number of connections inbetween airports.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
+Suggests: 
+    knitr,
+    rmarkdown,
+    testthat (>= 3.0.0),
+    stats,
+    sp,
+    fields,
+    ggplot2,
+    maps
+Config/testthat/edition: 3
+VignetteBuilder: knitr

@@ -1,0 +1,9 @@
+"0","load(""/Users/gcampidilli/Documents/GitHub/air-travel-network/atnPkg/R/internal_data_objectsairport_grid_point_list_75.RData"") 
+"
+"2","Warning in readChar(con, 5L, useBytes = TRUE) :"
+"2","
+ "
+"2"," cannot open compressed file '/Users/gcampidilli/Documents/GitHub/air-travel-network/atnPkg/R/internal_data_objectsairport_grid_point_list_75.RData', probable reason 'No such file or directory'
+"
+"2","Error in readChar(con, 5L, useBytes = TRUE) : cannot open the connection
+"

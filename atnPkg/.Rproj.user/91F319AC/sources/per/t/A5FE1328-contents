@@ -1,0 +1,8 @@
+wd = "/Users/gcampidilli/Desktop/tmp"
+setwd(wd)
+
+dat = read.csv('DRP.csv', header = T)
+
+t.test(Degree.of.Reading.Power ~ group, data = dat)
+
+cohen.d(dat, group=dat$Degree.of.Reading.Power)
